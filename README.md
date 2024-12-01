@@ -78,7 +78,7 @@ Rewrite Module is a download requirement for osTicket that configures URLs.
 <p>
   
 1. Download php-7.3.8-nts-Win32-VC15-x86.zip 
-2. Right click the zip folder in Downloads and 'Extract All' the contents into C:\PHP folder that we just created
+2. Right-click the zip folder in Downloads and 'Extract All' the contents into C:\PHP folder that we just created
 </p>
 
 
@@ -122,8 +122,8 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 <p>
   
 1. Click on Start; type IIS
-2. Right click and 'Run as administrator' 
-3. Double click PHP Manager
+2. Right-click and 'Run as administrator' 
+3. Double-click PHP Manager
 4. Click register new PHP version
 5. Browse to our PHP folder on the C: 
 6. Choose php-cgi.exe 
@@ -197,13 +197,13 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 <p>
 
 
-<h2>Step 13: download and install HeidiSQL</h2>
+<h2>Step 13: Download and install HeidiSQL</h2>
 <p>
 HeidiSQL is a database client that allows us to connect to the server and setup a database that osTicket will use
 
 1. Download HeidiSQL (HeidiSQL_12.3.0.6589_Setup.exe)
 2. Open Heidi SQL
-3. Create a new session clicking 'New' button, use the User Name: root and your SQL password
+3. Create a new session by clicking 'New' button, use the User Name: root and your SQL password
 4. Connect to the session
 5. Right click 'unnamed' -> create new -> database -> call it 'osTicket' 
 </p>
@@ -214,7 +214,7 @@ HeidiSQL is a database client that allows us to connect to the server and setup 
 </p>
 <p>
 
-<h2>Step 14: Return to browser to continue setting up osTicket</h2>
+<h2>Step 14: Return to the browser to continue setting up osTicket</h2>
 <p>
   
 1. MySQL Database: osTicket
